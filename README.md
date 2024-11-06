@@ -1,9 +1,8 @@
-## Hi, Tớ tên là Nguyễn Hồng Gấm :heartpulse:
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,%20World!;Welcome%20to%20my%20Profile!)
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+### Hi, Tớ tên là Nguyễn Hồng Gấm :heartpulse:
 
- /\_/\  
-(='.'=)  
-(")_(")
+
 
 <!--
 **Hana-ai-18/Hana-ai-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
