@@ -2,13 +2,18 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ####                 Hi, Tớ tên là Nguyễn Hồng Gấm :heartpulse:
 
+<br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align=center>
   </a>
   <a href="#" title="Hana-ai-18">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Hana-ai-18&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   
-  <br>
-    <!-- facebook, linkin, instagram -->
+<br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/hananguyenqt/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Hana-ai-18-facebook" />
