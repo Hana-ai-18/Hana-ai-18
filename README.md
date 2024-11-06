@@ -1,7 +1,7 @@
 # Hi, Tớ tên là Nguyễn Hồng Gấm :heartpulse:
- /\_/\  
-(='.'=)  
-(")_(")
+### /\_/\  
+###(='.'=)  
+###(")_(")
 
 <!--
 **Hana-ai-18/Hana-ai-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
