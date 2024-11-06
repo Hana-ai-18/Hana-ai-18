@@ -4,7 +4,6 @@
     Hi, Tớ tên là Nguyễn Hồng Gấm :heartpulse: Tớ là một UIT'er và một CS'er 
 
 
-
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
@@ -22,6 +21,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Hana-ai-18-email" />
   </a>
 </div>
+
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
