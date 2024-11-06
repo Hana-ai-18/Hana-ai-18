@@ -1,8 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Profile!;Welcome%20to%20my%20Profile!;Welcome%20to%20my%20Profile!)
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-![](https://img.shields.io/badge/NGUY%E1%BB%84N%20H%E1%BB%92NG%20G%E1%BA%A4M)
-
-### Hi, Tớ tên là Nguyễn Hồng Gấm :heartpulse:
+####                 Hi, Tớ tên là Nguyễn Hồng Gấm :heartpulse:
 
 
 
