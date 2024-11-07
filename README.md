@@ -1,12 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Profile!;Welcome%20to%20my%20Profile!;Welcome%20to%20my%20Profile!)
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <div align="center">
-    Hi, Tớ tên là Nguyễn Hồng Gấm :heartpulse: Tớ là một UIT'er và một CS'er
-<div align="center">
-```
-(' ')__(' ') ___.--''''--.,|)
-  ; . . ';     -.__ ,      ')__
-( O__,    )    _____,)  '--.__) ```
+Hi, Tớ tên là Nguyễn Hồng Gấm :heartpulse: Tớ là một UIT'er và một CS'er
+        
+      ('')__('') ___.--''''--.,|)
+       ; . .  ';     -.__ ,     ')__
+      (  O__,   )    _____,)  '--.__) 
+
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
