@@ -1,8 +1,16 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Profile!;Welcome%20to%20my%20Profile!;Welcome%20to%20my%20Profile!)
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <div align="center">
+        Hi, I'm Nguyen Hong Gam :heartpulse: 
         
-Hi, Tớ tên là Nguyễn Hồng Gấm :heartpulse: Tớ là một UIT'er và một CS'er
+<div align="left">
+        
+        - 🔭 I am currently a student of class 19 at the University of Information Technology, Ho Chi Minh City National University.
+        - 🌱 I am currently majoring in Artificial Intelligence in the faculty of Computer Science.
+        - 🏠 I am currently living in Ho Chi Minh city.
+        - 🤔 I am a person who is eager to learn new things, creative and responsible.
+        - 💬 I fancy drawing, designing, listening to music and reading books.
+<div align="center">
         
       ('')__('') ___.--''''--.,|)
        ; . .  ';     -.__ ,     ')__
@@ -36,8 +44,10 @@ Hi, Tớ tên là Nguyễn Hồng Gấm :heartpulse: Tớ là một UIT'er và m
   </a>
 </div>
 
-
-
+<br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+        
+        THINK DIFFERENT! 🤔
 <!--
 **Hana-ai-18/Hana-ai-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
