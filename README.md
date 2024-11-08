@@ -5,7 +5,7 @@
         
 <div align="left">
         
-        - 🔭 I am currently a student of class 19 at the University of Information Technology, Ho Chi Minh City National University.
+        - 🔭 I am currently a student of class 19 at the University of Information Technology, HCM City National University.
         - 🌱 I am currently majoring in Artificial Intelligence in the faculty of Computer Science.
         - 🏠 I am currently living in Ho Chi Minh city.
         - 🤔 I am a person who is eager to learn new things, creative and responsible.
