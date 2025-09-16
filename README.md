@@ -3,13 +3,6 @@
 <div align="center">
         Hi, I'm Nguyen Hong Gam :heartpulse: 
         
-<div align="left">
-        
-        - 🔭 I am currently a student of class 19 at the University of Information Technology, HCM City National University.
-        - 🌱 I am currently majoring in Artificial Intelligence in the faculty of Computer Science.
-        - 🏠 I am currently living in Ho Chi Minh city.
-        - 🤔 I am a person who is eager to learn new things, creative and responsible.
-        - 💬 I fancy drawing, designing, listening to music and reading books.
 <div align="center">
         
       ('')__('') ___.--''''--.,|)
@@ -48,17 +41,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
         
         THINK DIFFERENT! 🤔
-<!--
-**Hana-ai-18/Hana-ai-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
